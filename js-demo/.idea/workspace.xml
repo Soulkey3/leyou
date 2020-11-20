@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="749eb99a-5f75-484d-b4e4-81fe386b9264" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\maven_repository" />
+        <option name="mavenHome" value="G:/Program Files (x86)/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="G:\Program Files (x86)\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1jSam041soQbqdNBnEMN8SinoYl" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leyou-manage-web" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\JavaProject\yun6\js-demo\vue-demo" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="749eb99a-5f75-484d-b4e4-81fe386b9264" name="Default Changelist" comment="" />
+      <created>1603800101624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603800101624</updated>
+      <workItem from="1603800103048" duration="622000" />
+      <workItem from="1603800747704" duration="1654000" />
+      <workItem from="1603866180706" duration="14152000" />
+      <workItem from="1603966910151" duration="1425000" />
+      <workItem from="1603968933784" duration="1086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="544" y="178" key="#Project_Structure" timestamp="1603800173315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="544" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1603800173315" />
+    <state x="297" y="286" key="FileChooserDialogImpl" timestamp="1603970018057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="297" y="286" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603970018057" />
+    <state x="194" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1603968937492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="194" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603968937492" />
+    <state x="90" y="146" key="new project wizard" timestamp="1603968127768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="90" y="146" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603968127768" />
+    <state x="177" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1603801435904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="177" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603801435904" />
+  </component>
+</project>

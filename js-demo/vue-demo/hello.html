@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <button @click="handleClick">点我</button>
+    <br>
+    <input type="text" v-model="num"><button @click="num++">+</button>
+    <h1>
+        <span v-text="name"></span> 非常帅!<br>
+        {{num}}位女神为其着迷！
+    </h1>
+    <h1>请选择一下课程</h1>
+    <input type="checkbox" v-model="lessons" value="Java"/>Java
+    <input type="checkbox" v-model="lessons" value="Python"/>Python
+    <input type="checkbox" v-model="lessons" value="IOS"/>IOS
+    <h1>你已选择一下课程</h1>
+    {{lessons.join(",")}}
+    <hr>
+    <a href="www.baidu.com" @click.prevent="">百度</a>
+    <hr>
+    <ul>
+        <li v-for="u in users">
+            {{u.name+","+u.age}}
+        </li>
+    </ul>
+    <ul>
+        <li v-for="u in users[0]">{{u}}</li>
+    </ul>
+    <ul>
+        <li v-for="i in 5">{{i}}</li>
+    </ul>
+    <hr>
+    <button @click="show = !show">点击切换</button>
+    <h1 v-if="show">hello!</h1>
+    <ul>
+        <li v-for="i in 5" >
+            <span v-if="i%2===0">偶数：{{i}}</span>
+            <span v-else>奇数：{{i}}</span>
+        </li>
+    </ul>
+</div>
+
+
+
+<script src="node_modules/vue/dist/vue.js"></script>
+<script>
+    const app =new Vue({
+        el: "#app", //element ,vue作用的标签
+        data:{
+            name:"佳爷",
+            num: 1,
+            lessons: [],
+            users:[
+                {name:"aaa",age:12},
+                {name:"bbb",age:12},
+                {name:"ccc",age:11},
+                {name:"ddd",age:3},
+                {name:"eee",age:5},
+            ],
+            show: true,
+        },
+
+        methods:{
+            handleClick(){
+              console.log("hello");
+          }
+        }
+    });
+</script>
+</body>
+</html>
